@@ -23,9 +23,9 @@ python -m venv <nama virtual enviroment (dibebaskan)>
 ```
 <nama virtual enviroment (dibebaskan)>\Scripts\activate
 ```
-6. Install library terkait. Disini saya menggunakan fastapi, uvicorn, pandas, scikit-learn, pyodbc, python-multipart dengan cara
+6. Install library terkait. Disini saya menggunakan fastapi, uvicorn, pandas, scikit-learn, pyodbc, python-multipart dan requests dengan cara
 ```
-pip install fastapi uvicorn pandas scikit-learn pyodbc python-multipart
+pip install fastapi uvicorn pandas scikit-learn pyodbc python-multipart requests
 ```
 7. Jalankan aplikasi
 ```
